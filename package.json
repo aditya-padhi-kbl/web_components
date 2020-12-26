@@ -1,0 +1,18 @@
+{
+  "name": "web-components",
+  "version": "1.0.0",
+  "description": "A simple lit-html starter project.",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "lit-element": "2.4.0",
+    "lit-html": "^1.1.2"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.6.1"
+  },
+  "keywords": []
+}
